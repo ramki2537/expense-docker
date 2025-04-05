@@ -26,6 +26,6 @@ services:
     - expense
     container_name: frontend
     ports:
-    - 80:80
+    - 443:80
     depends_on:
     - backend
