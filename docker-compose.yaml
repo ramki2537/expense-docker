@@ -1,6 +1,6 @@
 networks:
    # the presence of these objects is sufficient to define them
-   expese: {}
+   expense: {}
 volumes:
    mysql:
 services:
